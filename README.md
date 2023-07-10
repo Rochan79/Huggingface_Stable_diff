@@ -3,5 +3,5 @@ Testing out a pre-trained model 'runwayml/stable-diffusion-v1-5' for Stable diff
 This is just for fun haha.
 This notebook can be replicated on Google Colab. Make sure to change the runtime to GPU.
 Get a HuggingFace token on their [website](https://huggingface.co/settings/tokens) and try it out yourself!
-Here's a Longhorn at UT:
+Here's an output of a prompt,"a Longhorn at UT":
 ![Longhorn at UT](lh.png)
